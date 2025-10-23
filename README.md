@@ -1,6 +1,8 @@
 # countreg
 Fitting Count Regression Models with Latent Covariates Use countreg (lavacreg) With (In) R Software
 
+https://www.youtube.com/watch?v=0_xXBzE6gxM
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
